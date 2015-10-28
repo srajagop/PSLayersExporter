@@ -12,5 +12,6 @@ public class Test {
 		
 		ArrayList<String> lst = Utils.splitString(str);
 		Utils.printList(lst);
+		System.out.println("*complete* ")
 	}
 }
